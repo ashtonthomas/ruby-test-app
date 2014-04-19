@@ -1,0 +1,15 @@
+GIT
+  remote: git@github.com:ashtonthomas/middleware.git
+  revision: 5c79aab0451b49fa04e411befc211176736aa21a
+  specs:
+    middleware (0.2.0.dev)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  middleware!
